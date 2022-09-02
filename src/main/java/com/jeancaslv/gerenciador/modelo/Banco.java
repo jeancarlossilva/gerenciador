@@ -1,4 +1,4 @@
-package com.jeancaslv.gerenciador.servlet;
+package com.jeancaslv.gerenciador.modelo;
 
 import java.util.ArrayList;
 import java.util.Iterator;
