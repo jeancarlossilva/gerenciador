@@ -27,7 +27,7 @@
   
   <filter>
   	<filter-name>AF</filter-name>
-  	<filter-class>com.jeancaslv.gerenciador.servlet.AutorizationFilter</filter-class>
+  	<filter-class>com.jeancaslv.gerenciador.servlet.AutorizacaoFilter</filter-class>
   </filter>
   <filter-mapping>
   	<filter-name>AF</filter-name>

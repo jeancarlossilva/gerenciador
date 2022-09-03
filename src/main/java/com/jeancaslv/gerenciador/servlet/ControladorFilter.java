@@ -19,6 +19,19 @@ import com.jeancaslv.gerenciador.acao.Acao;
 
 //@WebFilter("/entrada")
 public class ControladorFilter  implements Filter {
+	
+
+	@Override
+	public void init(FilterConfig filterConfig) throws ServletException {
+		
+	}
+	
+	@Override
+	public void destroy() {
+	
+	}
+       
+    
        
     
 	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
