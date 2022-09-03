@@ -8,6 +8,8 @@
 </head>
 <body>
 
+	<c:import url="logout-parcial.jsp" />
+
 	<form action="${linkEntradaServlet}" method="POST">
 	
 		Nome: <input type="text" name="nome" >
